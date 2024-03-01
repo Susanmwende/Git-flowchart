@@ -6,7 +6,7 @@ h1{
     border: 20px cornflowerblue;
     background-color: rgb(223, 215, 224);
     padding:100px ; 
-    margin-right:20%; 
+    margin-right:10%; 
 }
 .butt{
     background-color: blueviolet;
@@ -22,7 +22,15 @@ h1{
     
 }
 #image{
- justify-content: left;
- margin-left: 30%;
+
+ display: flex;
+ flex: auto;
  
+
+
+
+
+}
+#text2{
+text-align: left;
 }
