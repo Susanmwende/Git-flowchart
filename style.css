@@ -1,0 +1,28 @@
+h1{
+    font-size: 300%;
+}
+#form{
+    border-radius: 20px ;
+    border: 20px cornflowerblue;
+    background-color: rgb(223, 215, 224);
+    padding:100px ; 
+    margin-right:20%; 
+}
+.butt{
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+#text{
+    padding: 10%; 
+    display: flex;
+    
+    
+    
+}
+#image{
+ justify-content: left;
+ margin-left: 30%;
+ 
+}
